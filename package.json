@@ -8,6 +8,9 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+   "node": "16.13.1" 
+  },
   "dependencies": {
     "dotenv": "^14.3.2",
     "ejs": "^3.1.6",
